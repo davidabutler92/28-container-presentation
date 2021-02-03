@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticelItem component renders a single article 1`] = `
+<DocumentFragment>
+  <h1>
+    hello
+  </h1>
+  <p>
+    some author
+  </p>
+  <p>
+    something else described..
+  </p>
+</DocumentFragment>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsContainer component renders SearchForm and ArticleList 1`] = `
+<DocumentFragment>
+  <main>
+    <form>
+      <input
+        placeholder="Search"
+        type="text"
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Search
+      </button>
+    </form>
+    <ul />
+  </main>
+</DocumentFragment>
+`;
