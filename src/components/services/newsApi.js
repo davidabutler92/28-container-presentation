@@ -1,4 +1,4 @@
-const API_KEY = 'f09c7b1f498e4eec8a35aa25da9ac3a1';
+const API_KEY = '41017015a71940b4ba704da832324264';
 
 export const fetchNewsArticle = (search) => {
   return fetch(
